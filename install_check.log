@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Raghus-MBP.lan 20.6.0 Darwin Kernel Version 20.6.0: Tue Apr 19 21:04:45 PDT 2022; root:xnu-7195.141.29~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr  7 2022 22:12:27)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin20.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.41.0
+NODE:	[/Users/raghuvarapadma/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
